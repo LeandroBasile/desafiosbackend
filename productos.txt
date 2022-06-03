@@ -1,0 +1,1 @@
+[{"title":"BUZO","price":1000,"thumbnail":"url","id":1},{"title":"remera","price":1000,"thumbnail":"url","id":2},{"title":"remera","price":1000,"thumbnail":"url","id":3}]
